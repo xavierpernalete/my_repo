@@ -1,1 +1,1 @@
-“Primer fichero en el primer repositorio de <nombre apellidos>”
+“Primer fichero en el primer repositorio de Xavier Pernalete”
